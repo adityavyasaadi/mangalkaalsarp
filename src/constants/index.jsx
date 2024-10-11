@@ -4,7 +4,7 @@ export const siteQuickInfo = {
 	domain: "mangalkaalsarp.com",
 	phone: "+919303208558",
 	email: "vyasbrajesh297@gmail.com",
-	whatsapp: "+919303208558",
+	whatsapp: "919303208558",
 };
 
 export const navItems = [
